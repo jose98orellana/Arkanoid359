@@ -1,0 +1,16 @@
+
+int:
+lives
+scores
+ball_x
+ball_x_prev
+ball_y
+ball_y_prev
+ball_x_vel
+ball_y_vel
+paddle_x
+paddle_size
+
+
+2D array (int):
+brick_lives

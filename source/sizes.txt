@@ -1,0 +1,7 @@
+     width x height
+bricks: 60 x 30
+paddle: 70 x 15
+ball: 15 x 15
+
+left most brick: (0, 49)
+paddle: (414, 964)
